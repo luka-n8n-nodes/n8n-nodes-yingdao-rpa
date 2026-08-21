@@ -271,7 +271,7 @@ npm run lint
 npm run dev
 ```
 
-发布到 npm 请使用 `npm run release`。
+发布到 npm 请使用 `npm run release`。打出版本 tag 后，GitHub Actions 会按 provenance 要求发布社区节点。
 
 ## 许可证
 
